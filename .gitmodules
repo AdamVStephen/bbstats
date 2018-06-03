@@ -1,0 +1,6 @@
+[submodule "submodules/rpipfd"]
+	path = submodules/rpipfd
+	url = https://github.com/gadjetnut/rpipfd.git
+[submodule "submodules/py-gaugette"]
+	path = submodules/py-gaugette
+	url = https://github.com/guyc/py-gaugette.git
